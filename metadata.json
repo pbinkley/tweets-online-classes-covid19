@@ -1,3 +1,3 @@
-{"search": "#CovidCampus OR #OnlineLearning OR #RemoteLearning OR #VirtualLearning OR #digped OR #instructionalcontinuity OR ((online OR remote) AND (teach teaching learning learn course courses class classes lecture lectures instruction instructor instructors faculty professor professors teacher teachers student students)) OR ((class classes lectures) AND cancelled)",
+{"search": "#CovidCampus OR #OnlineLearning OR #RemoteLearning OR #VirtualLearning OR #digped OR #instructionalcontinuity OR ((online OR remote OR distance) AND (teach teaching learning learn course courses class classes lecture lectures instruction instructor instructors faculty professor professors teacher teachers student students)) OR ((class classes lectures) AND cancelled)",
 "title": "Online teaching during the COVID-19 crisis",
 "creator": "Peter Binkley"}
